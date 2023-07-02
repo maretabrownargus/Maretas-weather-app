@@ -1,0 +1,51 @@
+body {
+  background-image: url("src/images/Clouds2.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+h2 {
+  font-size: 30px;
+  color: white;
+  margin-top: 25px;
+  margin-left: 25px;
+  line-height: 50px;
+  text-align: 50px;
+}
+
+li {
+  list-style: none;
+  font-size: 15px;
+}
+
+div {
+  margin: 0px;
+  margin-left: 10px;
+  color: navy;
+  font-size: 15px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.searchbar {
+  margin: 50px 20px;
+  width: 500px;
+  line-height: 10px;
+}
+.button {
+  margin: 50px;
+  display: block;
+}
+
+.extraInfo {
+  position: relative;
+  left: 350px;
+  top: -125px;
+  color: white;
+}
+.frame {
+  position: relative;
+  border: ridge;
+  border-radius: 20px;
+  margin: 50px 60px 50px 30px;
+}
